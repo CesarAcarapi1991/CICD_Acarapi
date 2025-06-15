@@ -21,6 +21,9 @@
             <h:form>
                 <h1><h:outputText value="Hola Mundo !! - Hoy es 15 de Junio de 2025 14:03pm" /></h1>
                 <br/>
+                
+                <h1><h:outputText value="Tarea 3 completada" /></h1>
+                <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Categories Items" id="linkCats" />
