@@ -1,5 +1,5 @@
 stages:
-  -build
+  - build
 
 build-job:
   image: maven:3-jdk-8
