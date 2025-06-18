@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Hoy es 15 de Junio de 2025 14:03pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Commit  para Github Actions 21:17" /></h1>
                 <br/>
                 
                 <h1><h:outputText value="Tarea 3 completada" /></h1>
