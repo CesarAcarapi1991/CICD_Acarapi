@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Commit  para Github Actions 21:30" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Commit  para Github Actions 00:52" /></h1>
                 <br/>
                 
                 <h1><h:outputText value="Tarea 3 completada" /></h1>
